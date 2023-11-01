@@ -24,6 +24,7 @@ jobs:
           filters: |
             build:
               - './UK/LogonDetails.py'
+              - './.github/workflows/compile_exe.yml'
 
   build-exe:
     name: Build EXE
