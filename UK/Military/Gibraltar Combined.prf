@@ -1,0 +1,48 @@
+RecentFiles	Recent1	\..\Data\ASR\Gibraltar\Gibraltar Radar.asr
+RecentFiles	Recent2	\..\Data\ASR\Gibraltar\Gibraltar SMR.asr
+Settings	sector	UK\Data\Sector\Gibraltar LXGB.sct
+Settings	SettingsfileSYMBOLOGY	\..\Data\Settings\Local\Gibraltar\Symbology.txt
+Settings	SettingsfileVOICE	\..\Data\Settings\Voice_Gibraltar.txt
+Settings	SettingsfilePROFILE	\..\Data\Settings\Local\Gibraltar\Profiles.txt
+Settings	SettingsfileTAGS	\..\Data\Settings\Tags_mil.txt
+Settings	SettingsfileSIL	\..\Data\Settings\Lists.txt
+Settings	SettingsfileSEL	\..\Data\Settings\Lists.txt
+Settings	SettingsfileDEP	\..\Data\Settings\Lists.txt
+Settings	SettingsfileARR	\..\Data\Settings\Lists.txt
+Settings	SettingsfileFP	\..\Data\Settings\Lists.txt
+Settings	SettingsfilePLUGINS	\..\Data\Settings\Local\Gibraltar\Plugins.txt
+Settings	Settingsfile	\..\Data\Settings\Local\Gibraltar\General.txt
+Settings	SettingsfileSCREEN	\..\Data\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\..\Data\Settings\Lists.txt
+Settings	SettingsfileVCCS	\..\Data\Settings\VCCS.txt
+Settings	airlines	\..\Data\Datafiles\ICAO_Airlines.txt
+Settings	airports	\..\Data\Datafiles\ICAO_Airports.txt
+Settings	aircraft	\..\Data\Datafiles\ICAO_Aircraft.txt
+Settings	airportcoords	\..\Data\Datafiles\icao.txt
+Settings	airways	\..\Data\Datafiles\airway.txt
+Settings	performance	\..\Data\Datafiles\Performance.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+ASRFastKeys	1	\..\Data\ASR\Gibraltar\Gibraltar Radar.asr
+ASRFastKeys	2	\..\Data\ASR\Gibraltar\Gibraltar SMR.asr
+Settings	alias	\..\Data\Alias\AC_Alias.txt
+Settings	AtisFolder	\..\Data\ATIS\ATIS.txt
+LastSession	server	AUTOMATIC
+TeamSpeakVccs	TsVccsMiniControlX	1732
+TeamSpeakVccs	TsVccsMiniControlY	976
+Plugins	Plugin0	\..\Data\Plugin\vSMR\vSMR.dll
+Plugins	Plugin0Display0	SMR radar display
+Plugins	Plugin1	\..\Data\Plugin\UKControllerPlugin.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	SMR radar display
+Plugins	Plugin2	\..\Data\Plugin\AfvEuroScopeBridge.dll
+Plugins	Plugin3	\..\Data\Plugin\VFPC.dll
+Plugins	Plugin4	\..\Data\Plugin\VCH.dll
+LastSession	atis_freq4	118000
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	300
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
